@@ -7,7 +7,7 @@ It currently offers the ability to generate the Height, Color and Normal maps of
 
 The following packages are required in order to use this library:
 
-[SharpNoise](https://github.com/rthome/SharpNoise) ([Available on NuGet](https://www.nuget.org/packages/SharpNoise))
+[SharpNoise](https://github.com/rthome/SharpNoise) ([Available on NuGet](https://www.nuget.org/packages/SharpNoise))  
 [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json/)  
 [System.Drawing.Common](https://www.nuget.org/packages/System.Drawing.Common/)  
 [System.Numerics.Vectors](https://www.nuget.org/packages/System.Numerics.Vectors/)
